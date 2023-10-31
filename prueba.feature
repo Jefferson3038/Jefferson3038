@@ -1,4 +1,4 @@
-        Given la pagina de tuBanco Personas
+        Given la pagina de TuBancoPersonas
         And un usuario <user> y password <password> validos
         And la cuenta origen <origen> tiene fondos
         When El usuario hace log in en la pagina de tuBanco Personas
